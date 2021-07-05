@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TPNote1</string>
+    <string name="button_next">Next</string>
+    <string name="textfield">Chiffres d\'affaires</string>
+    <string name="fillEdit">0</string>
+    <string name="cotisationText">Cotisations</string>
+    <string name="beneficeText">Bénéfices</string>
+    <string name="returnButton">Retour</string>
+
+    <string-array name="ressources_array">
+        <item>Vente de marchandise</item>
+        <item>Location d\'habitation meublée</item>
+        <item>Location d\'habitation meublée de tourisme</item>
+        <item>Prestation de service</item>
+        <item>Profession libérale</item>
+    </string-array>
+</resources>
